@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="3pr" Database="" Version="10000">
+  <Project Name="ClientUDP" Path="3pr/3pr.project" Active="Yes"/>
+  <Project Name="ServerUDP" Path="ServerUDP/ServerUDP.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ClientUDP" ConfigName="Debug"/>
+      <Project Name="ServerUDP" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ClientUDP" ConfigName="Release"/>
+      <Project Name="ServerUDP" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
